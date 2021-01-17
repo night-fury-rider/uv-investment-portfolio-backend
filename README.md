@@ -1,7 +1,7 @@
-# uv-investment-portfolio-backend
+# UvInvestment Portfolio Backend
 This is the project to provide backend APIs for uv-investment-portfolio project.
 
-# Technologies and Libraries Used
+## Technologies and Libraries Used
 * [Java 15](https://www.oracle.com/java/technologies/javase/15-relnote-issues.html)
 * [Spring Boot 2.4.1](https://spring.io/projects/spring-boot)
 * [Spring Initializr](https://start.spring.io/)
@@ -13,7 +13,7 @@ This is the project to provide backend APIs for uv-investment-portfolio project.
 * [Spring Tool Suite (STS) 4](https://spring.io/tools)
 
 
-# Available Scripts
+## Available Scripts
 
 * Launch Application
 Run command below and open `http://localhost:8123/investments` in browser.
